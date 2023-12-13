@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "price": 15.99,
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "price": 12.50,
+    "author": "Harper Lee"
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "price": 10.75,
+    "author": "George Orwell"
+  },
+  {
+    "id": 4,
+    "name": "The Catcher in the Rye",
+    "price": 14.25,
+    "author": "J.D. Salinger"
+  },
+  {
+    "id": 5,
+    "name": "The Hobbit",
+    "price": 18.99,
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "id": 6,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "price": 21.99,
+    "author": "J.K. Rowling"
+  },
+  {
+    "id": 7,
+    "name": "The Da Vinci Code",
+    "price": 16.75,
+    "author": "Dan Brown"
+  },
+  {
+    "id": 8,
+    "name": "Pride and Prejudice",
+    "price": 13.50,
+    "author": "Jane Austen"
+  },
+  {
+    "id": 9,
+    "name": "The Alchemist",
+    "price": 20.25,
+    "author": "Paulo Coelho"
+  },
+  {
+    "id": 10,
+    "name": "The Lord of the Rings",
+    "price": 24.99,
+    "author": "J.R.R. Tolkien"
+  }
+]
